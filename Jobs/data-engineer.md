@@ -4,7 +4,7 @@ We are a small team working on scaling human coordination. Our mission is to bri
 
 We are ambitious. We believe our technology will fundamentally change Web3. And we have the technical and research chops to back it up. Our Founder and CEO, Omoju Miller, was the Technical Advisor to the CEO at GitHub and has a world class understanding of technical online communities. 
 
-As our Founding Data Engineer, you will be a key part of our success and we will have a great time building the reputation mechanism that will unleash the true power of human coordination technology at a planetary scale.
+As a Data Engineer, you will be a key part of our success and we will have a great time building the reputation mechanism that will unleash the true power of human coordination technology at a planetary scale.
 
 This is a full-time role based out of Oakland/San Francisco. You will only be asked to come to the office when the CEO is in (typically be 2-3 days per week). 
 
