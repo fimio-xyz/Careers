@@ -6,7 +6,7 @@ We are ambitious. We believe our technology will fundamentally change Web3. And 
 
 As a Data Engineer, you will be a key part of our success and we will have a great time building the reputation mechanism that will unleash the true power of human coordination technology at a planetary scale.
 
-This is a full-time role based out of Oakland/San Francisco. You will only be asked to come to the office when the CEO is in (typically be 2-3 days per week). 
+This is a full-time role based out of Oakland/San Francisco. You will only be asked to come to the office when the CEO is in (typically 1 day per week). 
 
 ## You will: 
 - Design, build, and maintain infrastructure and data pipelines capable of ingesting large amounts of data from layer one blockchains
