@@ -8,8 +8,27 @@ Note that at Fimio, we believe in building and upholding a fair and inclusive wo
 
 ### Review resumes Tuesday and Thursday Mornings 🗓️
 
-- template response to move forward (will link when written)
-- template response for thank you, no (will link when written)
+- template response to move forward: 
+ - Dear [name],
+   Thank you for applying for the [role] position at Fimio. After reviewing your resume, we'd like to invite you to a phone interview to get to know you a
+   little better! Are you available for a call? It won't take longer than 30 minutes. 
+   
+   Please schedule based on your best availability here[link to calendly], and be sure to provide a phone number where you can be reached. If you'd prefer
+   Zoom, please let me know.
+   
+   Looking forward to connecting,
+   [name]
+  
+- template response for thank you, no:
+  - Dear [name],
+    Thank you for applying for the [role] position at Fimio. After careful review and consideration, we have decided not to take your application further.
+    We appreciate the time and effort you put into your application, but feel that other candidates are more suitable for the position at this time.
+    
+    We wish you the best of luck in your job search and future endeavors! Thank you again for considering our company, and please don't hesitate to reach
+    out again if we have another open role that interests you. 
+    
+    Best,
+    [name]
 
 ### Phone screen - @seeglenn 📲
 
