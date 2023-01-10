@@ -6,4 +6,4 @@ This repo holds all job postings and information regarding Fimio's hiring proces
 # We are hiring!
 
 ### Current open roles: 
-- [Data Engineer](https://github.com/fimio-xyz/Careers/issues/5)
+- [Data Engineer](https://github.com/fimio-xyz/Careers/blob/main/Jobs/data-engineer.md)
