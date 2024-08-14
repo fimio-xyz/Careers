@@ -41,7 +41,7 @@ This role will report to the CEO, and will need to be able to work in office in 
 
 
 ## You may be a good fit if you have/are:
-- 5+ years of experience in building large-scale software applications
+- 7-10 years of experience in building large-scale software applications
 - Proven understanding and experience with Kubernetes, GPUs, CUDA, and associated drivers
 - Familiarity with databases (e.g. MySQL, Postgres) and web servers (e.g. Apache) 
 - Experience in designing and integrating RESTful APIs
