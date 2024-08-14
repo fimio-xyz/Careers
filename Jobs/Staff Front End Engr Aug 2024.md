@@ -32,7 +32,7 @@ This role will report to the CEO and will need to be able to work in office in S
 
 
 ## You may be a good fit if you have/are:
-- 5+ years of experience in building large-scale software applications
+- 7-10 years of experience in building large-scale software applications
 - Proven experience as a Front-End Developer or similar role
 - Comfort working in a highly agile, intensely iterative software development process
 - Knowledge of multiple front-end languages and libraries (e.g. HTML/ CSS, JavaScript, TypeScript, React)
