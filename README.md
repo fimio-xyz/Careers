@@ -5,5 +5,4 @@ This repo holds all job postings and information regarding Fimio's hiring proces
 
 ## Current open roles:
 
-- [Staff Front-End Engineer](https://github.com/fimio-xyz/Careers/blob/main/Jobs/Staff%20Front%20End%20Engr%20Aug%202024.md)
-
+No roles currently available. 
